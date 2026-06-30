@@ -51,4 +51,4 @@ This project is part of the Data Analytics Virtual Internship by Optimus Automat
 
 ## Author
 
-Ammar Ahmed
+Fiza Ahmed
